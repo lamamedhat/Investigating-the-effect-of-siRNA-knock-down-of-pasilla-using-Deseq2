@@ -1,0 +1,6 @@
+"0","write_sig_genes <- function(out_path){"
+"0","write.csv(ordered_result, file = out_path)"
+"0","}"
+"0",""
+"0","write_sig_genes(""Significant genes.csv"")"
+"0",""

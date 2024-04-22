@@ -1,0 +1,8 @@
+"0","factor_level <- function(){"
+"0",""
+"0","deseqdataset$condition <- relevel(deseqdataset$condition, ref = ""untreated"")"
+"0",""
+"0","}"
+"0",""
+"0","factor_level()"
+"0",""

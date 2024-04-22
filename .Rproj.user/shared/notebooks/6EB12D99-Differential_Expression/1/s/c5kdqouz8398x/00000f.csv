@@ -1,0 +1,7 @@
+"0",""
+"0","counts_data <- counts_data[, rownames(coldata)]"
+"0","all(rownames(coldata) == colnames(counts_data))"
+"1","[1]"
+"1"," TRUE"
+"1","
+"
