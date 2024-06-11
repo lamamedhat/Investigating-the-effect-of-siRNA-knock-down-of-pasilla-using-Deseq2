@@ -128,7 +128,7 @@ diff_expr_analysis()
 # Top 10 differentail expression genes
 
 ```{r}
-ordered_result <- result01[order(result01$pvalue, decreasing = TRUE), ]
+ordered_result <- result01[order(result01$padj, decreasing = FALSE), ]
 top10 <- head(ordered_result, n=10)
 top10
 
