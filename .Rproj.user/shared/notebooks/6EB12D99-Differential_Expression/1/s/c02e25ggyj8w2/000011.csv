@@ -1,6 +1,0 @@
-"0","read_count_data <- function(file_path){"
-"0","counts_data <<- read.csv(file_path, row.names = 1)"
-"0","return (head(counts_data))"
-"0","}"
-"0",""
-"0","read_count_data(""pasilla_gene_exp.csv"")"

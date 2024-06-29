@@ -1,5 +1,0 @@
-"0","plot_counts <- function(){"
-"0","plotCounts(deseqdataset, gene = which.min(result01$padj), intgroup = ""condition"")"
-"0","}"
-"0",""
-"0","plot_counts()"

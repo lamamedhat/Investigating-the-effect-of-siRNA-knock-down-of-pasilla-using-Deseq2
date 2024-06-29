@@ -1,8 +1,0 @@
-"0","pca_plot <- function(){"
-"0","normalized = normTransform(deseqdataset)"
-"0","plotPCA(normalized, intgroup=c(""condition"",""type""))"
-"0","}"
-"0",""
-"0","pca_plot()"
-"2","using ntop=500 top features by variance
-"

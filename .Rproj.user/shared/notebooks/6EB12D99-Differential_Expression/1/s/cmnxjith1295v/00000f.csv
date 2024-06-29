@@ -1,6 +1,0 @@
-"0","read_metadata <- function(file_path){"
-"0","coldata <<- read.csv(file_path, row.names = 1)"
-"0","return (coldata)"
-"0","}"
-"0",""
-"0","read_metadata(""pasilla_meta.data.csv"")"

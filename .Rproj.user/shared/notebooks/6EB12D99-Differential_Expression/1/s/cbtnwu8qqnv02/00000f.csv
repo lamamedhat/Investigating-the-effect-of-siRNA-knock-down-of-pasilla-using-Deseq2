@@ -1,6 +1,0 @@
-"0","convert_chr_to_factor <- function(){"
-"0","coldata$condition <- factor(coldata$condition)"
-"0","coldata$type <- factor(coldata$type)"
-"0","}"
-"0",""
-"0","convert_chr_to_factor()"
