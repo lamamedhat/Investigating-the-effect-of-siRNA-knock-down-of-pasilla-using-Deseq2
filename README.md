@@ -7,7 +7,7 @@ You can install dependencies recorded in the lockfile using the following comman
 renv::restore()
 ```
 # Sample Input
-[pasilla_gene_exp](https://github.com/lamamedhat/Investigating-the-effect-of-siRNA-knock-down-of-pasilla-using-Deseq2/blob/main/pasilla_gene_exp.csv)
+[pasilla_gene_exp](https://raw.githubusercontent.com/lamamedhat/Investigating-the-effect-of-siRNA-knock-down-of-pasilla-using-Deseq2/main/Data/pasilla_gene_exp.csv)
 
 [pasilla_metadata](https://github.com/lamamedhat/Investigating-the-effect-of-siRNA-knock-down-of-pasilla-using-Deseq2/blob/main/pasilla_meta.data.csv)
 
